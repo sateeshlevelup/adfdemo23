@@ -1,0 +1,9 @@
+{
+	"name": "adfprodinstance",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7cd69a8d-5313-4206-b1a1-f5ad2b5ca0ca",
+		"tenantId": "fae44175-1e3b-4ad0-8afd-ba5a837345f2"
+	}
+}
